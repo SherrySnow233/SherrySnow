@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-01-17T08:13:28.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g2l91Fetjw1tdtn62oA9" version="22.1.18" type="github">
+  <diagram name="第 1 页" id="r9LcX7ekAobWSlfdLRoS">
+    <mxGraphModel dx="1230" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yPqv-T2FEVEr3pC6Lzz5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="440" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="yPqv-T2FEVEr3pC6Lzz5-7" value="我的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yPqv-T2FEVEr3pC6Lzz5-8" value="圈子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="237" y="720" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yPqv-T2FEVEr3pC6Lzz5-11" value="排行榜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="353" y="720" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yPqv-T2FEVEr3pC6Lzz5-12" value="场所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
