@@ -53,18 +53,18 @@
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="427.5" as="sourcePoint" />
-            <mxPoint x="700" y="322.5" as="targetPoint" />
+            <mxPoint x="700" y="480" as="sourcePoint" />
+            <mxPoint x="700" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-11" value="删除project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="260" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-12" value="删除dataset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="350" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="320" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-13" value="删除user 关联关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="410" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="380" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HgGpebG_j-Z7EIIWRa45-15" target="HgGpebG_j-Z7EIIWRa45-3">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +85,9 @@
           <mxGeometry x="0.2787" y="11" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-23" value="通知相关用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
