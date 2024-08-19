@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="fqAmn3Mc_cYEZuJ6Nvqm">
-    <mxGraphModel dx="984" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="Cfb-k8IEmogOr-iFSknX-4" value="不支持修改" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HgGpebG_j-Z7EIIWRa45-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cfb-k8IEmogOr-iFSknX-7" target="HgGpebG_j-Z7EIIWRa45-3">
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cfb-k8IEmogOr-iFSknX-7" target="HgGpebG_j-Z7EIIWRa45-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cfb-k8IEmogOr-iFSknX-7" value="danger zone" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HgGpebG_j-Z7EIIWRa45-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="375" as="targetPoint" />
+            <mxPoint x="700" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-8" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HgGpebG_j-Z7EIIWRa45-7">
@@ -49,22 +49,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-3" value="校验通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="335" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="335" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="427.5" as="sourcePoint" />
-            <mxPoint x="590" y="322.5" as="targetPoint" />
+            <mxPoint x="700" y="427.5" as="sourcePoint" />
+            <mxPoint x="700" y="322.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-11" value="删除project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="290" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="290" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-12" value="删除dataset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="350" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="350" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-13" value="删除user 关联关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="90" height="45" as="geometry" />
+          <mxGeometry x="710" y="410" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HgGpebG_j-Z7EIIWRa45-15" target="HgGpebG_j-Z7EIIWRa45-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-15" value="输入验证信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="352.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HgGpebG_j-Z7EIIWRa45-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="335" as="sourcePoint" />
+            <mxPoint x="650" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgGpebG_j-Z7EIIWRa45-22" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HgGpebG_j-Z7EIIWRa45-21">
+          <mxGeometry x="0.2787" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
