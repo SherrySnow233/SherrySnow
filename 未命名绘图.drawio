@@ -29,7 +29,7 @@
         <mxCell id="Cfb-k8IEmogOr-iFSknX-2" value="is created" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="335" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cfb-k8IEmogOr-iFSknX-4" value="不支持修改" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Cfb-k8IEmogOr-iFSknX-4" value="不支持删除" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HgGpebG_j-Z7EIIWRa45-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cfb-k8IEmogOr-iFSknX-7" target="HgGpebG_j-Z7EIIWRa45-15">
